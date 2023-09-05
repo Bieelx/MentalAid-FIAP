@@ -1,0 +1,24 @@
+@import url(header.css);
+@import url(./inicio.css);
+
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@400;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+
+:root{
+    --header: rgba(87, 87, 87, 0.21);
+    --vidro: linear-gradient(159deg, #575757 -17.33%, rgba(87, 87, 87, 0.00) 128.31%);
+    --sombra-vidro: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    --efeito-vidro: blur(12.5px);
+}
+
+body {
+    background-color: black;
+    font-family: var(--fonte-principal);
+    font-size: 16px;
+    font-weight: 400;
+    
+}

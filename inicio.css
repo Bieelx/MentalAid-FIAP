@@ -1,0 +1,144 @@
+.pagina_inicial__background{
+    background-image: url(./img/Felipao.png);
+    width: 1863px;
+    height: 980px;
+    flex-shrink: 0;
+
+    background-repeat:repeat-x
+}
+
+.inicio{
+    width: 457px;
+    height: 771px;
+    border-radius: 29px;
+    border: 1px solid #FFF;
+    background: linear-gradient(159deg, #575757 -17.33%, rgba(87, 87, 87, 0.00) 128.31%);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    backdrop-filter: blur(12.5px);
+    margin: 103px 1045px 97px 78px;
+
+}
+
+.inicio__titulo{
+    color: #FFF;
+    font-family: Lexend;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    text-align: center;
+    margin-top: 25px;
+    
+}
+
+.inicio__texto{
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin: 21px 57px 75px 47px;
+}
+
+.pagina_inicial{
+display:flex;
+}
+
+.pagina_inicial__background__pickballon{
+    background-image: url(./img/pickballon.png);
+    width: 1863px;
+    height: 980px;
+    background-attachment: fixed;
+    background-repeat:repeat-x
+}
+
+.inicio_ballon{
+    width: 457px;
+    height: 566px;
+    flex-shrink: 0;
+    border-radius: 29px;
+    border: 1px solid #FFF;
+    background: linear-gradient(159deg, #575757 -17.33%, rgba(87, 87, 87, 0.00) 128.31%);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    backdrop-filter: blur(12.5px);
+    margin: 103px 1045px 23px 78px;
+}
+
+.botao-jogar{
+
+    width: 377px;
+    height: 68px;
+
+    border-radius: 29px;
+    border: 1px solid rgba(255, 255, 255, 0.81);
+    background: linear-gradient(97deg, rgba(91, 98, 255, 0.90) 19.42%, rgba(80, 87, 255, 0.00) 127.81%);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    backdrop-filter: blur(15px);
+
+    color: #FFF;
+    text-align: center;
+    font-family: Lexend;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    text-decoration: none;
+
+    display: flex;
+    align-items:center;
+    justify-content: center ;
+
+    margin-left:120px ;
+}
+
+.pagina_inicial__background__quemsomos{
+    background-image: url(./img/quem\ somos.png);
+    width: 1863px;
+    height: 1080px;
+
+}
+
+.inicio_quemsomos{
+    width: 457px;
+    height: 478px;
+    flex-shrink: 0;
+    border-radius: 29px;
+    border: 1px solid #FFF;
+    background: linear-gradient(159deg, #575757 -17.33%, rgba(87, 87, 87, 0.00) 128.31%);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    backdrop-filter: blur(12.5px);
+
+
+    margin-top:153px !important ;
+    margin:auto;
+    margin-bottom: 30px !important;
+}
+
+.botao-quemsomos{
+    width: 377px;
+    height: 68px;
+
+    border-radius: 29px;
+    border: 1px solid rgba(0, 0, 0, 0.81);
+    background: linear-gradient(97deg, rgba(255, 91, 121, 0.90) 19.42%, rgba(255, 80, 111, 0.00) 127.81%);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    backdrop-filter: blur(15px);
+
+    color: #FFF;
+    text-align: center;
+    font-family: Lexend;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    text-decoration: none;
+
+    display: flex;
+    align-items:center;
+    justify-content: center ;
+
+    margin-left: 735px;
+
+}
