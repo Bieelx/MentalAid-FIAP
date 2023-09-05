@@ -6,7 +6,7 @@ Projeto feito para o projeto Enterprise Challenge da faculdade FIAP curso sistem
 </p>
 
 <p align = "center">
-<img alt="Tela do jogo" src="./img/Tela Inicial.png" widgth = "100%">
+<img alt="" src="./img/Tela Inicial.png" widgth = "100%">
 </p>
 
 ## 🚀 Tecnologias
